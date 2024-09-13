@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">autonomo3googlemaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="GOOGLE_maps_key">AIzaSyAkoIaFd3KDb18NBHcoiDIodsYwOxDeq38</string>
+    <string name="latitude_hint">Ingresa latitud</string>
+    <string name="longitude_hint">Ingresa longitud</string>
+    <string name="search_location_button">Buscar Ubicación</string>
+    <string name="latitude_input_desc">Campo para ingresar latitud</string>
+    <string name="longitude_input_desc">Campo para ingresar longitud</string>
+</resources>
